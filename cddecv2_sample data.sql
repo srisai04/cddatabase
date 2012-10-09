@@ -47,7 +47,8 @@ CREATE TABLE IF NOT EXISTS `address` (
 INSERT INTO `address` (`address_id`, `address1`, `address2`, `address3`, `address4`, `city`, `county`, `state`, `country`, `pincode`) VALUES
 (1, '', '', '', '', '', '', '', '', ''),
 (2, '445', 'Majestic', 'MG Road', '', 'London', '', '', 'UK', 'UV23334'),
-(3, 'Medicines Management ', 'Guide Business Centre', 'School Lane', '', 'Blackburn', 'Lancashire', '', 'UK', 'BB1 2QH');
+(3, 'Medicines Management ', 'Guide Business Centre', 'School Lane', '', 'Blackburn', 'Lancashire', '', 'UK', 'BB1 2QH'),
+(4, 'bangalore','chittoor','hyderabad','mangalore','karnataka','india','karnataka','india',560076);
 
 -- --------------------------------------------------------
 
